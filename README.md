@@ -5,5 +5,6 @@ To run this code, you only need the requirements listed in `requirements.txt` an
 
 This project sources from https://github.com/marcos-acosta/USA-mapping
 
+and help doc. https://plotly.com/python/
 
 ![USA asthma map](images/choropleth.png)
