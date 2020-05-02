@@ -4,6 +4,7 @@ To run this code, you only need the requirements listed in `requirements.txt` an
 
 
 This project sources from https://github.com/marcos-acosta/USA-mapping
+                      and https://github.com/yg2619/Choropleth-Maps-in-Python-Using-Plotly
 
 and help doc. https://plotly.com/python/
 
